@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="System.ComponentModel.Composition" Version="6.0.0" />
+	  <PackageReference Include="System.Composition.AttributedModel" Version="6.0.0" />
+	  <PackageReference Include="TLSharp" Version="0.1.0.574" />
+	</ItemGroup>
+
+</Project>

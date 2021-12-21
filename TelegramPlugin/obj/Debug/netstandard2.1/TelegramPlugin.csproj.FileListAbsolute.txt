@@ -1,0 +1,13 @@
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\bin\Debug\netstandard2.1\TelegramPlugin.deps.json
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\bin\Debug\netstandard2.1\TelegramPlugin.dll
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\bin\Debug\netstandard2.1\TelegramPlugin.pdb
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\bin\Debug\netstandard2.1\BusinessLogics.dll
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\bin\Debug\netstandard2.1\BusinessLogics.pdb
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.csproj.CopyComplete
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.dll
+C:\Users\pavlo\source\repos\COP\TelegramPlugin\obj\Debug\netstandard2.1\TelegramPlugin.pdb

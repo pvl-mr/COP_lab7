@@ -1,0 +1,9 @@
+C:\Users\pavlo\source\repos\COP\Excel\bin\Debug\Excel.dll
+C:\Users\pavlo\source\repos\COP\Excel\bin\Debug\Excel.pdb
+C:\Users\pavlo\source\repos\COP\Excel\bin\Debug\BusinessLogics.dll
+C:\Users\pavlo\source\repos\COP\Excel\bin\Debug\BusinessLogics.pdb
+C:\Users\pavlo\source\repos\COP\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\COP\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\COP\Excel\obj\Debug\Excel.csproj.CopyComplete
+C:\Users\pavlo\source\repos\COP\Excel\obj\Debug\Excel.dll
+C:\Users\pavlo\source\repos\COP\Excel\obj\Debug\Excel.pdb

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "KLpEblSZJpUzoVR1uAHbg2h2Y0Cj4yEBN2hbRWndLhiFKKVLBONDeg9zyIMJ87pQjR2P+kHvafPWrY7REi7Q2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavlo\\source\\repos\\COP\\TelegramPlugin\\TelegramPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavlo\\.nuget\\packages\\system.componentmodel.composition\\6.0.0\\system.componentmodel.composition.6.0.0.nupkg.sha512",
+    "C:\\Users\\pavlo\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\pavlo\\.nuget\\packages\\tlsharp\\0.1.0.574\\tlsharp.0.1.0.574.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"TLSharp 0.1.0.574\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "TLSharp",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

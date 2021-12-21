@@ -1,0 +1,11 @@
+C:\Users\pavlo\source\repos\COP\Telegram\bin\Debug\Telegram.dll
+C:\Users\pavlo\source\repos\COP\Telegram\bin\Debug\Telegram.pdb
+C:\Users\pavlo\source\repos\COP\Telegram\bin\Debug\BusinessLogics.dll
+C:\Users\pavlo\source\repos\COP\Telegram\bin\Debug\TeleSharp.TL.dll
+C:\Users\pavlo\source\repos\COP\Telegram\bin\Debug\TLSharp.Core.dll
+C:\Users\pavlo\source\repos\COP\Telegram\bin\Debug\BusinessLogics.pdb
+C:\Users\pavlo\source\repos\COP\Telegram\obj\Debug\Telegram.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\COP\Telegram\obj\Debug\Telegram.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\COP\Telegram\obj\Debug\Telegram.csproj.CopyComplete
+C:\Users\pavlo\source\repos\COP\Telegram\obj\Debug\Telegram.dll
+C:\Users\pavlo\source\repos\COP\Telegram\obj\Debug\Telegram.pdb

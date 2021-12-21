@@ -1,0 +1,11 @@
+C:\Users\pavlo\source\repos\COP\Tel\bin\Debug\Tel.dll
+C:\Users\pavlo\source\repos\COP\Tel\bin\Debug\Tel.pdb
+C:\Users\pavlo\source\repos\COP\Tel\bin\Debug\BusinessLogics.dll
+C:\Users\pavlo\source\repos\COP\Tel\bin\Debug\TeleSharp.TL.dll
+C:\Users\pavlo\source\repos\COP\Tel\bin\Debug\TLSharp.Core.dll
+C:\Users\pavlo\source\repos\COP\Tel\bin\Debug\BusinessLogics.pdb
+C:\Users\pavlo\source\repos\COP\Tel\obj\Debug\Tel.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\COP\Tel\obj\Debug\Tel.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\COP\Tel\obj\Debug\Tel.csproj.CopyComplete
+C:\Users\pavlo\source\repos\COP\Tel\obj\Debug\Tel.dll
+C:\Users\pavlo\source\repos\COP\Tel\obj\Debug\Tel.pdb
